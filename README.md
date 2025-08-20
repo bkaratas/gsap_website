@@ -5,7 +5,7 @@ The project demonstrates advanced scroll-triggered animations, modular architect
 
 [![alt text](image.png)](https://gsapcocktail.netlify.app "Open the live demo")
 
-
+**Live Demo**: [https://gsapcocktail.netlify.app](https://gsapcocktail.netlify.app)
 ---
 
 ## Overview
